@@ -1,0 +1,17 @@
+
+.grid {
+    display:flex;
+    justify-content:space-between ;
+    flex-wrap: wrap;
+}
+.item img {
+    border-radius: 2px; 
+    border: 2px solid black;
+}
+.header {
+  background-image:url("backgroundimg.jpg") ;
+}
+
+div {
+    background-image:url("backgroundImg2.jpg")
+}
